@@ -3,6 +3,7 @@
 $ pyhton obesity.py
 
 In each line, left number represents the number of participants while right number indicates question number.
+The thick solid line labeled "2" represents adult obesity rate.
 
 <pre>
 Nine questions:
