@@ -2,7 +2,7 @@
 
 $ pyhton obesity.py
 
-Left number represents the number of participants while right number indicates question number.
+In each line, left number represents the number of participants while right number indicates question number.
 
 <pre>
 Nine questions:
